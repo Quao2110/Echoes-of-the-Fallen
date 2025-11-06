@@ -1,8 +1,10 @@
-
+﻿
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
+
 
 public class BossMain : MonoBehaviour
 {
@@ -178,7 +180,12 @@ public class BossMain : MonoBehaviour
         anim.SetBool("isHealing", false);
         print("healed");
     }
-
+    // HÀM MỚI: Chờ [delay] giây rồi tải scene
+    private IEnumerator LoadWinSceneWithDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene("GameWin");
+    }
     public void TakeDamage(float damage)
     {
         if (isInvulnerable)
@@ -193,6 +200,7 @@ public class BossMain : MonoBehaviour
             isDead = true;
 
             bossDied.Invoke();
+            StartCoroutine(LoadWinSceneWithDelay(3f));
         }
 
         if (isHealing && healInterruptionTimer > 1f)

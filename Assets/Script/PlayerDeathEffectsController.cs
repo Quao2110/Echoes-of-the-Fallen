@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -135,4 +135,34 @@ public class PlayerDeathEffectsController : MonoBehaviour
         justFadedIn = false;
         deathFadeOverlay.SetActive(false);
     }
+    // ===== BẮT ĐẦU CODE THÊM VÀO =====
+
+    // 1. HÀM NÀY SẼ ĐƯỢC AUDIOMANAGER GỌI KHI BOSS CHẾT
+    public void startWinOverlayFadeIn()
+    {
+        // Bắt đầu fade, nhưng là cho "Win Scene"
+        StartCoroutine(fadeInWinOverlay());
+    }
+
+    // 2. HÀM NÀY GẦN GIỐNG HỆT 'fadeInDeathOverlay'
+    private IEnumerator fadeInWinOverlay()
+    {
+        deathFadeOverlay.GetComponent<Image>().color = new Color(0, 0, 0, 0);
+        deathFadeOverlay.SetActive(true);
+
+        for (float alpha = 0, waitTime = (deathOverlayFadeTime / (1 / 0.05f)); alpha < 1; alpha += 0.05f)
+        {
+            deathFadeOverlay.GetComponent<Image>().color = new Color(0, 0, 0, Mathf.Min(1, alpha));
+            yield return new WaitForSeconds(waitTime);
+        }
+
+        deathFadeOverlay.GetComponent<Image>().color = new Color(0, 0, 0, 1);
+        justFadedIn = true;
+
+        // QUAN TRỌNG: Tải "GameWinScene" (thay vì GameOverScene)
+        SceneManager.LoadScene("GameWinScene");
+    }
+
+    // ===== KẾT THÚC CODE THÊM VÀO =====
 }
+
