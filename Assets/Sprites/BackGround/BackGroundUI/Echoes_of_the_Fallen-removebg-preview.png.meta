@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 801d289cf5d867947b5ae9dc59c38106
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6749005133867491459
+    second: Echoes_of_the_Fallen-removebg-preview_0
+  - first:
+      213: 3243045817935406451
+    second: Echoes_of_the_Fallen-removebg-preview_1
+  - first:
+      213: 1010074939942945518
+    second: Echoes_of_the_Fallen-removebg-preview_2
+  - first:
+      213: -1244049367184222802
+    second: Echoes_of_the_Fallen-removebg-preview_3
+  - first:
+      213: -8690297246949961403
+    second: Echoes_of_the_Fallen-removebg-preview_4
+  - first:
+      213: 4581645098882059826
+    second: Echoes_of_the_Fallen-removebg-preview_5
+  - first:
+      213: -7542272292380259572
+    second: Echoes_of_the_Fallen-removebg-preview_6
+  - first:
+      213: -7648397570749168137
+    second: Echoes_of_the_Fallen-removebg-preview_7
+  - first:
+      213: -7851264506659579884
+    second: Echoes_of_the_Fallen-removebg-preview_8
+  - first:
+      213: -8746294102763997227
+    second: Echoes_of_the_Fallen-removebg-preview_9
+  - first:
+      213: -5806522716599130568
+    second: Echoes_of_the_Fallen-removebg-preview_10
+  - first:
+      213: -4371782521375507474
+    second: Echoes_of_the_Fallen-removebg-preview_11
+  - first:
+      213: -6435736026741460177
+    second: Echoes_of_the_Fallen-removebg-preview_12
+  - first:
+      213: -4528173783933665756
+    second: Echoes_of_the_Fallen-removebg-preview_13
+  - first:
+      213: -964124143810802120
+    second: Echoes_of_the_Fallen-removebg-preview_14
+  - first:
+      213: 4905502781712911932
+    second: Echoes_of_the_Fallen-removebg-preview_15
+  - first:
+      213: -8538435853495483230
+    second: Echoes_of_the_Fallen-removebg-preview_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Echoes_of_the_Fallen-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 114
+        width: 655
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f5a88a697b652a0800000000000000
+      internalID: -6749005133867491459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echoes_of_the_Fallen-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 14
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a441fe64d1618980800000000000000
+      internalID: -8538435853495483230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fd5ff452bce687b429834fb068c95a58
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Echoes_of_the_Fallen-removebg-preview_0: -6749005133867491459
+      Echoes_of_the_Fallen-removebg-preview_1: 3243045817935406451
+      Echoes_of_the_Fallen-removebg-preview_10: -5806522716599130568
+      Echoes_of_the_Fallen-removebg-preview_11: -4371782521375507474
+      Echoes_of_the_Fallen-removebg-preview_12: -6435736026741460177
+      Echoes_of_the_Fallen-removebg-preview_13: -4528173783933665756
+      Echoes_of_the_Fallen-removebg-preview_14: -964124143810802120
+      Echoes_of_the_Fallen-removebg-preview_15: 4905502781712911932
+      Echoes_of_the_Fallen-removebg-preview_16: -8538435853495483230
+      Echoes_of_the_Fallen-removebg-preview_2: 1010074939942945518
+      Echoes_of_the_Fallen-removebg-preview_3: -1244049367184222802
+      Echoes_of_the_Fallen-removebg-preview_4: -8690297246949961403
+      Echoes_of_the_Fallen-removebg-preview_5: 4581645098882059826
+      Echoes_of_the_Fallen-removebg-preview_6: -7542272292380259572
+      Echoes_of_the_Fallen-removebg-preview_7: -7648397570749168137
+      Echoes_of_the_Fallen-removebg-preview_8: -7851264506659579884
+      Echoes_of_the_Fallen-removebg-preview_9: -8746294102763997227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

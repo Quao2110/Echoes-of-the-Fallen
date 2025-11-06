@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - controls
+  - sceneController
+  - settings
+  - multiArrows
+  - mainOptions
+  - creditsText
+  - CheckpointRangeCheck
+  - Enemy
+  - Audio
+  - Checkpoint
+  - OneWayPlatform
+  - Boss
+  - Platform
+  - SoundRange
+  - Gravestone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Attackable
+  - Wall
+  - Player
+  - Boss
+  - BossExtras
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1081489287
+    locked: 0
+  - name: Midground
+    uniqueID: 2762123789
+    locked: 0
+  - name: Foreground
+    uniqueID: 4012952713
+    locked: 0
+  - name: Entity
+    uniqueID: 3607283969
+    locked: 0
+  - name: Player
+    uniqueID: 2068319971
+    locked: 0
+  - name: Special Foreground
+    uniqueID: 305940405
+    locked: 0
+  - name: Overlay
+    uniqueID: 1701053189
+    locked: 0
+  - name: MenuLayer1
+    uniqueID: 2947339643
+    locked: 0
+  - name: MenuLayer2Background
+    uniqueID: 2455475131
+    locked: 0
+  - name: MenuLayer2
+    uniqueID: 664995791
+    locked: 0
+  - name: MenuSelected
+    uniqueID: 502903663
+    locked: 0
+  - name: UI
+    uniqueID: 3323344643
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7

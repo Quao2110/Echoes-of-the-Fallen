@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 4802f472725a0334587088fb89ff7de2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1900029256287738514
+    second: Cracked Pillar Works_0
+  - first:
+      213: 2223190565681164720
+    second: Cracked Pillar Works_1
+  - first:
+      213: -5482777040815341864
+    second: Cracked Pillar Works_2
+  - first:
+      213: 3633503351684824933
+    second: Cracked Pillar Works_3
+  - first:
+      213: -1434670602402318970
+    second: Cracked Pillar Works_4
+  - first:
+      213: 4807191729917502630
+    second: Cracked Pillar Works_5
+  - first:
+      213: 6584861851778233172
+    second: Cracked Pillar Works_6
+  - first:
+      213: 3433504349754697929
+    second: Cracked Pillar Works_7
+  - first:
+      213: -3901042071553639723
+    second: Cracked Pillar Works_8
+  - first:
+      213: 2912723227070624938
+    second: Cracked Pillar Works_9
+  - first:
+      213: 1283359488299800827
+    second: Cracked Pillar Works_10
+  - first:
+      213: -8271231267013677674
+    second: Cracked Pillar Works_11
+  - first:
+      213: 2616816935723913351
+    second: Cracked Pillar Works_12
+  - first:
+      213: -7176512665523239199
+    second: Cracked Pillar Works_13
+  - first:
+      213: -8680734685139898853
+    second: Cracked Pillar Works_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cracked Pillar Works_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1808
+        width: 272
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a51e3ba824e5a10800000000000000
+      internalID: 1900029256287738514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 831
+        width: 645
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1fc6f5a0c5ade10800000000000000
+      internalID: 2223190565681164720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_2
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1327
+        width: 666
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deb883945349e3b0800000000000000
+      internalID: -5482777040815341864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_3
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1813
+        width: 235
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f7d571c0ccc6230800000000000000
+      internalID: 3633503351684824933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_4
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1516
+        width: 196
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6853d1630b6071ce0800000000000000
+      internalID: -1434670602402318970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1111
+        width: 202
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ade4a86396b240800000000000000
+      internalID: 4807191729917502630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 117
+        width: 278
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453334257f0226b50800000000000000
+      internalID: 6584861851778233172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_7
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 123
+        width: 309
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c823edb30246af20800000000000000
+      internalID: 3433504349754697929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 625
+        width: 143
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf03f87e6bcd9c0800000000000000
+      internalID: -3901042071553639723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 593
+        width: 251
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4f29eb7521c6820800000000000000
+      internalID: 2912723227070624938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 593
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf89c33b7a86fc110800000000000000
+      internalID: 1283359488299800827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_11
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 593
+        width: 326
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dab8a4cfea63d80800000000000000
+      internalID: -8271231267013677674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 123
+        width: 197
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780dc08732dc05420800000000000000
+      internalID: 2616816935723913351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 123
+        width: 256
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e64565e0c7e76c90800000000000000
+      internalID: -7176512665523239199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cracked Pillar Works_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 123
+        width: 294
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ee2dedbc5d78780800000000000000
+      internalID: -8680734685139898853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cracked Pillar Works_0: 1900029256287738514
+      Cracked Pillar Works_1: 2223190565681164720
+      Cracked Pillar Works_10: 1283359488299800827
+      Cracked Pillar Works_11: -8271231267013677674
+      Cracked Pillar Works_12: 2616816935723913351
+      Cracked Pillar Works_13: -7176512665523239199
+      Cracked Pillar Works_14: -8680734685139898853
+      Cracked Pillar Works_2: -5482777040815341864
+      Cracked Pillar Works_3: 3633503351684824933
+      Cracked Pillar Works_4: -1434670602402318970
+      Cracked Pillar Works_5: 4807191729917502630
+      Cracked Pillar Works_6: 6584861851778233172
+      Cracked Pillar Works_7: 3433504349754697929
+      Cracked Pillar Works_8: -3901042071553639723
+      Cracked Pillar Works_9: 2912723227070624938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
