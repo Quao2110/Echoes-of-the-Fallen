@@ -21,18 +21,18 @@ Hành trình của bạn đưa bạn đến **Vua Gục Ngã**, người từng 
 **Ghi chú:** Ngay cả sự quên lãng cũng không thể được quên trong Lâu Đài U Tàn.
 
 🎮 Gameplay
-NHẤN WASD ĐỂ DI CHUYỂN
-NHẤN SPACE ĐỂ BẬT CAO!
-NHẤN SPACE LẦN NỮA KHI ĐANG TRÊN KHÔNG ĐỂ NHẢY KÉP!
-GIỮ SHIFT ĐỂ TĂNG TỐC LƯỚT ĐI!
-NGHỈ NGƠI Ở ĐỐM LỬA SẼ HỒI PHỤC TOÀN BỘ SỨC MẠNH
-NHƯNG HÃY CẨN THẬN, KẺ ĐỊCH ĐÃ GỤC NGÃ SẼ TRỖI DẬY MỘT LẦN NỮ
-NHẤN CHUỘT TRÁI ĐỂ TUNG ĐÒN TẤN CÔNG
-NHẤN W TRONG KHI RA ĐÒN ĐỂ ĐÁNH LÊN TRÊN
-NHẤN CHUỘT TRÁI KHI ĐANG Ở TRÊN KHÔNG ĐỂ THỰC HIỆN ĐÒN NHẢY TẤN CÔNG
-NHẤN CHUỘT PHẢI ĐỂ THỰC HIỆN ĐÒN TẤN CÔNG ĐẶC BIỆT
-NHẤN PHÍM CÁCH (SPACE) VÀ S CÙNG LÚC ĐỂ NHẢY XUỐNG KHỎI BỤC
-NHẢY TRONG KHI BÁM VÀO TƯỜNG ĐỂ TIẾP TỤC LEO LÊN
+- NHẤN WASD ĐỂ DI CHUYỂN
+- NHẤN SPACE ĐỂ BẬT CAO!
+- NHẤN SPACE LẦN NỮA KHI ĐANG TRÊN KHÔNG ĐỂ NHẢY KÉP!
+- GIỮ SHIFT ĐỂ TĂNG TỐC LƯỚT ĐI!
+- NGHỈ NGƠI Ở ĐỐM LỬA SẼ HỒI PHỤC TOÀN BỘ SỨC MẠNH
+- NHƯNG HÃY CẨN THẬN, KẺ ĐỊCH ĐÃ GỤC NGÃ SẼ TRỖI DẬY MỘT LẦN NỮ
+- NHẤN CHUỘT TRÁI ĐỂ TUNG ĐÒN TẤN CÔNG
+- NHẤN W TRONG KHI RA ĐÒN ĐỂ ĐÁNH LÊN TRÊN
+- NHẤN CHUỘT TRÁI KHI ĐANG Ở TRÊN KHÔNG ĐỂ THỰC HIỆN ĐÒN NHẢY TẤN CÔNG
+- NHẤN CHUỘT PHẢI ĐỂ THỰC HIỆN ĐÒN TẤN CÔNG ĐẶC BIỆT
+- NHẤN PHÍM CÁCH (SPACE) VÀ S CÙNG LÚC ĐỂ NHẢY XUỐNG KHỎI BỤC
+- NHẢY TRONG KHI BÁM VÀO TƯỜNG ĐỂ TIẾP TỤC LEO LÊN
 
 🛠️ Công nghệ sử dụng
 Unity 2021+
